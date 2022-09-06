@@ -7,8 +7,6 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 
-
-//comentario linea kevgaa
 import java.io.IOException;
 
 /**
